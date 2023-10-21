@@ -1,1 +1,3 @@
 семинар
+#ifsd
+git add
